@@ -1,4 +1,4 @@
-一键导出京东阅读已购买的电子书, [导出格式示例](./output/30410212/index.html)
+一键导出京东阅读已购买的电子书, [导出格式示例](./output/30410212/index.html), [相关博文](http://poppython.com/blog/hack_jd_read.html)
 
 ## 如何使用
 step0: 下载代码, 并安装依赖
