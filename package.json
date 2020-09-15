@@ -1,0 +1,19 @@
+{
+  "name": "hack_jd_read",
+  "version": "1.0.0",
+  "description": "一键导出京东阅读已购买的电子书",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rmlzy@outlook.com",
+  "license": "WTFPL",
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "inquirer": "^7.3.3",
+    "node-fetch": "^2.6.1"
+  }
+}
